@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! Eu sou a Ana Antunes 👋
 
-<!--
-**Antunes2806/Antunes2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Jogos Digitais na FATEC Americana e estagiária na área de TI no CPQD. Tenho interesse em desenvolvimento de software e busco ampliar meus conhecimentos em programação por meio de estudos e projetos práticos.
 
-Here are some ideas to get you started:
+## Atualmente
+- Aprimorando meus conhecimentos em lógica de programação e desenvolvimento.
+- Desenvolvendo projetos acadêmicos e pessoais.
+- Explorando diferentes tecnologias e ferramentas de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+Em breve!
+
+## Contato
+- LinkedIn: www.linkedin.com/in/ana-antunes-a8a436309
